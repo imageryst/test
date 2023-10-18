@@ -1,0 +1,1406 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-10-18T14:57:46Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2051621439",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo de Armijo - AE",
+        "operator": "Innogy Spain, S.A.U",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8811848,
+          41.5273123
+        ]
+      },
+      "id": "node/2051621439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2051621525",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo de Armijo - AE",
+        "operator": "Innogy Spain, S.A.U",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8801714,
+          41.5284178
+        ]
+      },
+      "id": "node/2051621525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2051621586",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo de Armijo - AE",
+        "operator": "Innogy Spain, S.A.U",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8793074,
+          41.529663
+        ]
+      },
+      "id": "node/2051621586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2051621627",
+        "generator:method": "wind_turbine",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo de Armijo - AE",
+        "operator": "Innogy Spain, S.A.U",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8781102,
+          41.5311801
+        ]
+      },
+      "id": "node/2051621627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2192180144",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE12",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7966724,
+          41.5443794
+        ]
+      },
+      "id": "node/2192180144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2192180221",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE11",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7957042,
+          41.5470091
+        ]
+      },
+      "id": "node/2192180221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2192180382",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE06",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7848193,
+          41.551912
+        ]
+      },
+      "id": "node/2192180382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2192180447",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE05",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7829687,
+          41.5540857
+        ]
+      },
+      "id": "node/2192180447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2192180461",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE04",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7799703,
+          41.5545765
+        ]
+      },
+      "id": "node/2192180461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2192180502",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE03",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7779089,
+          41.556049
+        ]
+      },
+      "id": "node/2192180502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3078444037",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "I+D El Espartal - AE03",
+        "operator": "Iberdrola Renovables de Aragón S.A.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7076623,
+          41.4996441
+        ]
+      },
+      "id": "node/3078444037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3078444038",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "I+D El Espartal - AE02",
+        "operator": "Iberdrola Renovables de Aragón S.A.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7048289,
+          41.5014424
+        ]
+      },
+      "id": "node/3078444038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3078444039",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "I+D El Espartal - AE01",
+        "operator": "Iberdrola Renovables de Aragón S.A.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7015536,
+          41.5045619
+        ]
+      },
+      "id": "node/3078444039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3078444040",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "I+D Acampo Hospital - AE01",
+        "operator": "Enel Green Power España, S.L. - Enel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7021158,
+          41.5078533
+        ]
+      },
+      "id": "node/3078444040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3078444041",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "I+D Acampo Hospital - AE02",
+        "operator": "Enel Green Power España, S.L. - Enel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6993412,
+          41.5094538
+        ]
+      },
+      "id": "node/3078444041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3078444042",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "2 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "I+D Acampo Hospital - AE03",
+        "operator": "Enel Green Power España, S.L. - Enel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6981717,
+          41.5117229
+        ]
+      },
+      "id": "node/3078444042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905678219",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Rodén - AE02",
+        "operator": "Eolextrem Desarrollos SL",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.651015,
+          41.4861093
+        ]
+      },
+      "id": "node/8905678219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905678220",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Rodén - AE01",
+        "operator": "Eolextrem Desarrollos SL",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6504786,
+          41.4900434
+        ]
+      },
+      "id": "node/8905678220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708560",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 3.8 MW - 130",
+        "name": "Romerales 2 - RO2-12",
+        "operator": "Alectoris Energía Sostenible 3, SL - Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8272469,
+          41.547195
+        ]
+      },
+      "id": "node/8905708560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708561",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 3.8 MW - 130",
+        "name": "Romerales 2 - RO2-11",
+        "operator": "Alectoris Energía Sostenible 3, SL - Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8271182,
+          41.5507439
+        ]
+      },
+      "id": "node/8905708561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708562",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 3.8 MW - 130",
+        "name": "Romerales 2 - RO2-10",
+        "operator": "Alectoris Energía Sostenible 3, SL - Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.82317,
+          41.5519563
+        ]
+      },
+      "id": "node/8905708562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708563",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 3.8 MW - 130",
+        "name": "Romerales 2 - RO2-09",
+        "operator": "Alectoris Energía Sostenible 3, SL - Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8226657,
+          41.5547985
+        ]
+      },
+      "id": "node/8905708563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708564",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 3.8 MW - 130",
+        "name": "Romerales 2 - RO2-08",
+        "operator": "Alectoris Energía Sostenible 3, SL - Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8232129,
+          41.5578654
+        ]
+      },
+      "id": "node/8905708564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708565",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 3.8 MW - 130",
+        "name": "Romerales 2 - RO2-02",
+        "operator": "Alectoris Energía Sostenible 3, SL - Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8037937,
+          41.583671
+        ]
+      },
+      "id": "node/8905708565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708566",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 3.8 MW - 130",
+        "name": "Romerales 2 - RO2-01",
+        "operator": "Alectoris Energía Sostenible 3, SL - Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8034504,
+          41.5874507
+        ]
+      },
+      "id": "node/8905708566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708567",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 3.8 MW - 130",
+        "name": "Romerales 2 - RO2-03",
+        "operator": "Alectoris Energía Sostenible 3, SL - Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8118403,
+          41.5702036
+        ]
+      },
+      "id": "node/8905708567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708568",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 3.8 MW - 130",
+        "name": "Romerales 2 - RO2-04",
+        "operator": "Alectoris Energía Sostenible 3, SL - Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8126128,
+          41.5676752
+        ]
+      },
+      "id": "node/8905708568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708569",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 3.8 MW - 130",
+        "name": "Romerales 2 - RO2-06",
+        "operator": "Alectoris Energía Sostenible 3, SL - Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8103919,
+          41.5645847
+        ]
+      },
+      "id": "node/8905708569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708570",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 3.8 MW - 130",
+        "name": "Romerales 2 - RO2-05",
+        "operator": "Alectoris Energía Sostenible 3, SL - Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8070016,
+          41.5612934
+        ]
+      },
+      "id": "node/8905708570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708571",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 3.8 MW - 130",
+        "name": "Romerales 2 - RO2-04",
+        "operator": "Alectoris Energía Sostenible 3, SL - Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8092654,
+          41.557472
+        ]
+      },
+      "id": "node/8905708571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708587",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE25",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7702232,
+          41.5456934
+        ]
+      },
+      "id": "node/8905708587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708588",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE24",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7721651,
+          41.5440875
+        ]
+      },
+      "id": "node/8905708588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708589",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE23",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7743538,
+          41.5421924
+        ]
+      },
+      "id": "node/8905708589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708590",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE22",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7787204,
+          41.5421683
+        ]
+      },
+      "id": "node/8905708590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708591",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE21",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7795572,
+          41.5401687
+        ]
+      },
+      "id": "node/8905708591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708592",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE20",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7830012,
+          41.5407469
+        ]
+      },
+      "id": "node/8905708592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708593",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE19",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7863808,
+          41.5409637
+        ]
+      },
+      "id": "node/8905708593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708594",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE18",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7895565,
+          41.5409959
+        ]
+      },
+      "id": "node/8905708594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708595",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE17",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7926893,
+          41.5410842
+        ]
+      },
+      "id": "node/8905708595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708596",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE16",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7942021,
+          41.5393095
+        ]
+      },
+      "id": "node/8905708596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708597",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE15",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7957685,
+          41.5368199
+        ]
+      },
+      "id": "node/8905708597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708598",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE14",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7983005,
+          41.5351013
+        ]
+      },
+      "id": "node/8905708598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708599",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE13",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7993412,
+          41.5424654
+        ]
+      },
+      "id": "node/8905708599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708600",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE10",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7960528,
+          41.5488651
+        ]
+      },
+      "id": "node/8905708600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708601",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE09",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7939446,
+          41.5497082
+        ]
+      },
+      "id": "node/8905708601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708602",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE08",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7908225,
+          41.5500494
+        ]
+      },
+      "id": "node/8905708602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708603",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE07",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7878774,
+          41.5509527
+        ]
+      },
+      "id": "node/8905708603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708604",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE02",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7743323,
+          41.5573797
+        ]
+      },
+      "id": "node/8905708604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905708605",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "0.72 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "name": "Acampo Arias - AE01",
+        "operator": "Acampo Arias, S.L.",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7722831,
+          41.559194
+        ]
+      },
+      "id": "node/8905708605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935845484",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 130-3.8 MW",
+        "name": "Romerales I - RM1-01",
+        "operator": "Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7508455,
+          41.5410394
+        ]
+      },
+      "id": "node/8935845484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935845485",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 130-3.8 MW",
+        "name": "Romerales I - RM1-10",
+        "operator": "Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7178557,
+          41.547153
+        ]
+      },
+      "id": "node/8935845485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935845486",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 130-3.8 MW",
+        "name": "Romerales I - RM1-05",
+        "operator": "Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7473204,
+          41.5424384
+        ]
+      },
+      "id": "node/8935845486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935845487",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 130-3.8 MW",
+        "name": "Romerales I - RM1-11",
+        "operator": "Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7170319,
+          41.5358154
+        ]
+      },
+      "id": "node/8935845487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935845488",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 130-3.8 MW",
+        "name": "Romerales I - RM1-06",
+        "operator": "Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.736323,
+          41.5477163
+        ]
+      },
+      "id": "node/8935845488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935845489",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 130-3.8 MW",
+        "name": "Romerales I - RM1-12",
+        "operator": "Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7118508,
+          41.5386125
+        ]
+      },
+      "id": "node/8935845489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935845490",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 130-3.8 MW",
+        "name": "Romerales I - RM1-07",
+        "operator": "Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7312326,
+          41.5516869
+        ]
+      },
+      "id": "node/8935845490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935845491",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 130-3.8 MW",
+        "name": "Romerales I - RM1-13",
+        "operator": "Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7125143,
+          41.5418951
+        ]
+      },
+      "id": "node/8935845491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935845492",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 130-3.8 MW",
+        "name": "Romerales I - RM1-08",
+        "operator": "Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7274216,
+          41.5530076
+        ]
+      },
+      "id": "node/8935845492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935845493",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 130-3.8 MW",
+        "name": "Romerales I - RM1-01",
+        "operator": "Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7434358,
+          41.5438303
+        ]
+      },
+      "id": "node/8935845493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935845494",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 130-3.8 MW",
+        "name": "Romerales I - RM1-02",
+        "operator": "Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7342468,
+          41.549837
+        ]
+      },
+      "id": "node/8935845494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935845495",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 130-3.8 MW",
+        "name": "Romerales I - RM1-13",
+        "operator": "Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7235358,
+          41.5424471
+        ]
+      },
+      "id": "node/8935845495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935845496",
+        "generator:method": "wind_turbine",
+        "generator:output:electricity": "3.8 MW",
+        "generator:source": "wind",
+        "generator:type": "horizontal_axis",
+        "height": "85",
+        "manufacturer": "General Electric",
+        "model": "GE 130-3.8 MW",
+        "name": "Romerales I - RM1-09",
+        "operator": "Forestalia",
+        "power": "generator",
+        "rotor:diameter": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7246825,
+          41.5398309
+        ]
+      },
+      "id": "node/8935845496"
+    }
+  ]
+}
